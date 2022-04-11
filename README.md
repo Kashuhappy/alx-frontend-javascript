@@ -1,1 +1,1 @@
-## Front-End-Modern JavaScript
+## Front-End-Modern JavaScript.
